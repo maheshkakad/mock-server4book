@@ -1,0 +1,15 @@
+{
+  "name": "bakendapi4",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js" 
+  },
+  "author": "",
+  "license": "ISC",
+  "keywords": [],
+  "description": "",
+  "dependencies": {
+    "json-server": "^0.17.1"
+  }
+}
